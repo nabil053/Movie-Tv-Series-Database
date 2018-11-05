@@ -4,11 +4,11 @@ The name of this project is ‘Online Movie and TV Series Viewer’. This is a s
 <h3> Platform:</h3> This software was programmed using Java. The software was coded in Netbeans IDE. For the purpose of managing the database in the software, MySQL was used.
  
  <figure>
- <img src="lfr2.jpg" height="300" weight="500"/>
- <center> <figcaption>Fig. - Line Follower Robot.</figcaption> </center>
+ <img src="omatsv.png" height="300" weight="500"/>
+<figcaption>Fig. - Online Movie & Tv Series Viewer.</figcaption>
 </figure>
 
- <h4>AUST 3.2 MSD LAB Final Project By</h4>
+ <h4>Java Project By</h4>
 <ul style="list-style-type:square">
   <li>SAGOR AHAMED</li>
 <li>NABIL AHMED</li>
